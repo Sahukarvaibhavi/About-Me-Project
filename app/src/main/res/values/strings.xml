@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">About Me</string>
+    <string name="name">Vaibhavi Sahukar</string>
+    <string name="yellow_star">Yellow_Star</string>
+    <string name="enter_your_nickname">Enter your Nickname</string>
+
+    <string name="bio" >Create an page for your website or profile.Send me his bio, please.So many of my smiles are because of you.
+        \nSo grateful to be sharing my world with you.
+        \nAll your dreams can come true and Ill make sure of it.
+        \nLive in the sunshine where you belong.
+        \nMy life is better than my daydreams.
+        \nSprinkling kindness everywhere I go.
+        \nI love my followers more than life itself.
+        \nYour bio is all about you.
+        \nIve included a brief bio below.
+        \nHe had a periodic table in his bio.
+        \nIn your bio, might call yourself Dr.
+        \nWithout having any bio or background.
+        \nUnderstanding the basics of a good bio.
+        \nYou only have 160 characters for the bio.
+        \n\nBegin writing your bio with your first and last name.
+        \nMention any associated brand name you might use.
+        \nState your current position and what you do.
+        \nInclude at least one professional accomplishment.\n\n</string>
+    <string name="done">Done</string>
+</resources>
